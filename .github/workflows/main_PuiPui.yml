@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'PuiPui'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_46eca85c0a614b22809a65ff42cbd681 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_38deea402031483b85ca928f5b877d61 }}
